@@ -1,5 +1,5 @@
 # MTA-Network
-Social media for MTA College
+Social media for MTA College.
 
 ## ! Front & Back by Liron Cohen !
 
