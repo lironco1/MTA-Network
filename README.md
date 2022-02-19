@@ -11,7 +11,7 @@ Social media for MTA College.
 
 # NOTES FOR COMPANIES :)
 
-## There was many restrictions on this project, without them i would completely choose to implement it different
+## There was many restrictions on this project, without them i would completely choose to implement it differently
 ## Any extra libraries was Unforbidden !!!!
 
 I would use :
